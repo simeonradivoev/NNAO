@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9d33695da3ae27345af2cd843456cd83
+timeCreated: 1503496797
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 5144feb4bb1a6da498eac90abe523094, type: 3}
+  - blurShader: {fileID: 4800000, guid: 0802a9b2d3c413e4ba8dfba846d5c563, type: 3}
+  - combineShader: {fileID: 4800000, guid: 1a3a8a198fdd6a94699a3918df7e5dcc, type: 3}
+  - quadMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - f0Texture: {fileID: 2800000, guid: 668e7116d0e91a8438450d33fb3bdd63, type: 3}
+  - f1Texture: {fileID: 2800000, guid: 51814e5341cbe7b438818ecf00047219, type: 3}
+  - f2Texture: {fileID: 2800000, guid: f404b60aff510834e80c80ece44b1d57, type: 3}
+  - f3Texture: {fileID: 2800000, guid: ab1d3b45f86fa3b4b857cc00fd870669, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
